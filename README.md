@@ -44,3 +44,4 @@
 |     read-03     |  [Passing Functions as Props](Code301/301-reads/read-03.md)            |
 |     read-04     |  [Passing Functions as Props](Code301/301-reads/read-03.md)            |
 |     read-05     |     [Putting it all together](Code301/301-reads/read-05.md)            |
+|     read-06     |               [NODE.JS](Code301/301-reads/read-05.md)                  |
