@@ -48,3 +48,4 @@
 |     read-07     |               [](Code301/301-reads/read-07.md)                         |
 |     read-08     |               [APIs](Code301/301-reads/read-08.md)                     |
 |     read-09     |     [Functional Programming](Code301/301-reads/read-09.md)             |
+|     read-10     |         [In memory storage](Code301/301-reads/read-10.md)              |
