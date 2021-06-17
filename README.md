@@ -45,7 +45,7 @@
 |     read-04     |             [React and Forms](Code301/301-reads/read-04.md)            |
 |     read-05     |     [Putting it all together](Code301/301-reads/read-05.md)            |
 |     read-06     |               [NODE.JS](Code301/301-reads/read-06.md)                  |
-|     read-07     |               [](Code301/301-reads/read-07.md)                         |
+|     read-07     |               [REST](Code301/301-reads/read-07.md)                     |
 |     read-08     |               [APIs](Code301/301-reads/read-08.md)                     |
 |     read-09     |     [Functional Programming](Code301/301-reads/read-09.md)             |
 |     read-10     |         [In memory storage](Code301/301-reads/read-10.md)              |
