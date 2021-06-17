@@ -42,7 +42,7 @@
 |     read-01     |  [Introduction to React and Components](Code301/301-reads/read-01.md)  |
 |     read-02     |           [State and Props](Code301/301-reads/read-02.md)              |
 |     read-03     |  [Passing Functions as Props](Code301/301-reads/read-03.md)            |
-|     read-04     |  [Passing Functions as Props](Code301/301-reads/read-03.md)            |
+|     read-04     |             [React and Forms](Code301/301-reads/read-04.md)            |
 |     read-05     |     [Putting it all together](Code301/301-reads/read-05.md)            |
 |     read-06     |               [NODE.JS](Code301/301-reads/read-06.md)                  |
 |     read-07     |               [](Code301/301-reads/read-07.md)                         |
