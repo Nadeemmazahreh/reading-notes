@@ -51,3 +51,4 @@
 |     read-10     |         [In memory storage](Code301/301-reads/read-10.md)              |
 |     read-11     |         [Authentication](Code301/301-reads/read-11.md)                 |
 |     read-12     |         [Mongo and Mongoose](Code301/301-reads/read-12.md)             |
+|     read-13     |                  [CRUD](Code301/301-reads/read-13.md)                  |
