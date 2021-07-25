@@ -52,3 +52,10 @@
 |     read-11     |         [Authentication](Code301/301-reads/read-11.md)                 |
 |     read-12     |         [Mongo and Mongoose](Code301/301-reads/read-12.md)             |
 |     read-13     |                  [CRUD](Code301/301-reads/read-13.md)                  |
+
+
+## Code 401
+
+|  Reading Notes  |                                  links                                 |   
+|-----------------|------------------------------------------------------------------------|
+|     read-01     |  [Pain And Suffering, Big O](Code401/401-reads/read-01.md)             |
