@@ -59,6 +59,6 @@
 |  Reading Notes  |                                  links                                 |   
 |-----------------|------------------------------------------------------------------------|
 |     read-01     |  [Pain And Suffering, Big O](Code401/401-reads/read-01.md)             |
-|     read-02     |  [Pain And Suffering, Big O]()                                         |
+|     read-02     |  [Testing and Modules](Code401/401-reads/read-02.md)                   |
 |     read-03     |  [FileIO & Exceptions](Code401/401-reads/read-03.md)                   |
 |     read-04     |  [Classes, Objects, Thinking recursively](Code401/401-reads/read-04.md)|
