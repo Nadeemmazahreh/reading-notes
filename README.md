@@ -63,3 +63,4 @@
 |     read-03     |  [FileIO & Exceptions](Code401/401-reads/read-03.md)                   |
 |     read-04     |  [Classes, Objects, Thinking recursively](Code401/401-reads/read-04.md)|
 |     read-05     |  [Game of Greed 1](Code401/401-reads/read-05.md)                       |
+|     read-06     |  [Game of Greed 2](Code401/401-reads/read-06.md)                       |
