@@ -65,3 +65,4 @@
 |     read-05     |  [Game of Greed 1](Code401/401-reads/read-05.md)                       |
 |     read-06     |  [Game of Greed 2](Code401/401-reads/read-06.md)                       |
 |     read-08     |  [Game of Greed 3](Code401/401-reads/read-08.md)                       |
+|     read-09     |  [Game of Greed 3](Code401/401-reads/read-09.md)                       |
