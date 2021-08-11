@@ -67,7 +67,8 @@
 |     read-08     |  [Game of Greed 3](Code401/401-reads/read-08.md)                       |
 |     read-09     |  [Game of Greed 4](Code401/401-reads/read-09.md)                       |
 |     read-10     |  [Data Analysis](Code401/401-reads/read-10.md)                         |
-|     read-11     |  [Pandas](Code401/401-reads/read-12.md)                                |
-|     read-12     |  [How to do linear regression](Code401/401-reads/read-13.md)           |
+|     read-12     |  [Pandas](Code401/401-reads/read-12.md)                                |
+|     read-13     |  [How to do linear regression](Code401/401-reads/read-13.md)           |
+|     read-14     |  [How to do linear regression](Code401/401-reads/read-14.md)           |
 
 
