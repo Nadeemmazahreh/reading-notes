@@ -70,5 +70,6 @@
 |     read-12     |  [Pandas](Code401/401-reads/read-12.md)                                |
 |     read-13     |  [How to do linear regression](Code401/401-reads/read-13.md)           |
 |     read-14     |  [How to do linear regression](Code401/401-reads/read-14.md)           |
+|     read-16     |  [Machine Learning Intro](Code401/401-reads/read-16.md)                |
 
 
