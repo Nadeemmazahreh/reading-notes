@@ -69,8 +69,10 @@
 |     read-10     |  [Data Analysis](Code401/401-reads/read-10.md)                         |
 |     read-12     |  [Pandas](Code401/401-reads/read-12.md)                                |
 |     read-13     |  [How to do linear regression](Code401/401-reads/read-13.md)           |
-|     read-14     |  [How to do linear regression](Code401/401-reads/read-14.md)           |
+|     read-14     |  [Data Visualization](Code401/401-reads/read-14.md)                    |
 |     read-16     |  [Machine Learning Intro](Code401/401-reads/read-16.md)                |
-|     read-16     |  [Web Scraping](Code401/401-reads/read-17.md)                          |
+|     read-17     |  [Web Scraping](Code401/401-reads/read-17.md)                          |
+|     read-18     |  [Cryptography](Code401/401-reads/read-18.md)                          |
+
 
 
