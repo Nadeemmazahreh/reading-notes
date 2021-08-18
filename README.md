@@ -73,6 +73,8 @@
 |     read-16     |  [Machine Learning Intro](Code401/401-reads/read-16.md)                |
 |     read-17     |  [Web Scraping](Code401/401-reads/read-17.md)                          |
 |     read-18     |  [Cryptography](Code401/401-reads/read-18.md)                          |
+|     read-19     |  [Automation](Code401/401-reads/read-19.md)                            |
+
 
 
 
