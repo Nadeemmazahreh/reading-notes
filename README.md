@@ -74,6 +74,7 @@
 |     read-17     |  [Web Scraping](Code401/401-reads/read-17.md)                          |
 |     read-18     |  [Cryptography](Code401/401-reads/read-18.md)                          |
 |     read-19     |  [Automation](Code401/401-reads/read-19.md)                            |
+|     read-28     |  [Django CRUD and Forms](Code401/401-reads/read-28.md)                 |
 
 
 
