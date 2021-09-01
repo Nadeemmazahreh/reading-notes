@@ -29,3 +29,7 @@ $ pipenv shell
     -   update the admin
 
 
+## DjangoX
+    DjangoX is a template on github that you can use to create a projects that have already installed structure. 
+
+    Link: https://github.com/wsvincent/djangox
