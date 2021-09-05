@@ -77,6 +77,7 @@
 |     read-28     |  [Django CRUD and Forms](Code401/401-reads/read-28.md)                 |
 |     read-29     |  [Django Custom User Setup](Code401/401-reads/read-29.md)              |
 |     read-30     |  [Docker and Django REST API](Code401/401-reads/read-30.md)            |
+|     read-31     |  [Permissions & Postgresql](Code401/401-reads/read-31.md)              |
 
 
 
