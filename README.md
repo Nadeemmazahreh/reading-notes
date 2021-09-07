@@ -78,7 +78,8 @@
 |     read-29     |  [Django Custom User Setup](Code401/401-reads/read-29.md)              |
 |     read-30     |  [Docker and Django REST API](Code401/401-reads/read-30.md)            |
 |     read-31     |  [Permissions & Postgresql](Code401/401-reads/read-31.md)              |
-|     read-32     |  [Authentication & Production Server](Code401/401-reads/read-32.md)    |
+|     read-33     |  [Authentication & Production Server](Code401/401-reads/read-33.md)    |
+|     read-34     |  [API Deployment](Code401/401-reads/read-34.md)                        |
 
 
 
