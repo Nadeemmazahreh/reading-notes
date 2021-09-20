@@ -86,6 +86,7 @@
 |     read-38     |  [React 3](Code401/401-reads/read-38.md)                               |
 |     read-42     |  [Pythonisms](Code401/401-reads/read-42.md)                            |
 |     read-43     |  [Ethics in Tech](Code401/401-reads/read-43.md)                        |
+|     read-44     |  [OSS contributions](Code401/401-reads/read-44.md)                     |
 
 
 
