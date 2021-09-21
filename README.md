@@ -74,6 +74,8 @@
 |     read-17     |  [Web Scraping](Code401/401-reads/read-17.md)                          |
 |     read-18     |  [Cryptography](Code401/401-reads/read-18.md)                          |
 |     read-19     |  [Automation](Code401/401-reads/read-19.md)                            |
+|     read-26     |  [intro to Django](Code401/401-reads/read-26.md)                       |
+|     read-27     |  [Django Models](Code401/401-reads/read-27.md)                         |
 |     read-28     |  [Django CRUD and Forms](Code401/401-reads/read-28.md)                 |
 |     read-29     |  [Django Custom User Setup](Code401/401-reads/read-29.md)              |
 |     read-30     |  [Docker and Django REST API](Code401/401-reads/read-30.md)            |
